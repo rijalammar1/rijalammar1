@@ -8,10 +8,8 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 - 👀 I’m interested in New Tech And Frontend Development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
 
-# 📊 Github stats
+# 📊 Github proflie stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&layout=compact" />
 
@@ -21,6 +19,8 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 💻 Software and tools
 <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0078d7.svg?logo=spotify&logoColor=white"></a>
