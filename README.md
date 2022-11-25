@@ -9,6 +9,7 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
 
+
 # 📊 Github proflie stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&layout=compact" />
@@ -21,6 +22,7 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://komarev.com/ghpvc/?username=rijalammar1&style=flat-square)
 
 ## 💻 Software and tools
 <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0078d7.svg?logo=spotify&logoColor=white"></a>
