@@ -22,7 +22,7 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://komarev.com/ghpvc/?username=rijalammar1&style=flat-square)
+
 
 ## 💻 Software and tools
 <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0078d7.svg?logo=spotify&logoColor=white"></a>
@@ -30,6 +30,6 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-0078d7.svg?logo=anaconda&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-
+![](https://komarev.com/ghpvc/?username=rijalammar1&style=flat-square)
 
 
