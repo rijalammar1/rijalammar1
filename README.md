@@ -13,7 +13,6 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 # 📊 Github proflie stats
 ![Rijal GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&langs_count=8)](https://github.com/rijalammar1/github-readme-stats)
 
 ## 👨‍💻 Programming language that I'm learning
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
