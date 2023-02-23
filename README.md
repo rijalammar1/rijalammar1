@@ -10,10 +10,6 @@ Welcome to Rijal Ammar  profile! <img src="https://media.giphy.com/media/12oufCB
 - 📫 Trying to imporve myself everyday
 
 
-# 📊 Github proflie stats
-![Rijal GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true)
-
-
 ## 👨‍💻 Programming language that I'm learning
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
