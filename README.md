@@ -11,9 +11,16 @@ Welcome to my profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gi
 
 
 # 👨‍💻 Programming language that I'm learning
-[![My Skills](https://skillicons.dev/icons?i=java,css,nodejs,php,react,html,androidstudio,flutter,py&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,css,nodejs,php,react,html,androidstudio,flutter,py" />
+  </a>
+</p>
 
 
 # 💻 Software and tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,laravel,stackoverflow,figma&theme=light)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,laravel,stackoverflow,figma" />
+  </a>
+</p>
