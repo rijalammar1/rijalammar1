@@ -15,6 +15,14 @@ src="https://img.shields.io/twitter/follow/tukangesdoger?logo=twitter&style=for-
 /></a><a href="https://www.twitch.tv/hutzmanz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/raihanhd?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
 
+<h2>:fire: My Stats</h2>
+
+<p align="left">
+  <a href="https://github.com/dimasmds">
+    <img height="192em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
+    <img height="192em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rijalammar1&layout=compact&langs_count=8&theme=dark&background=000000"/>
+   </a>
+</p>
 
 
 ## 👨‍💻 Programming language that I'm learning
