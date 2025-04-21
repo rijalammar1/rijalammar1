@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
 
-<a href="https://www.github.com/rijalammar1" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/rijalammar1" target="_blank" rel="noreferrer">
 
 
 <h2>:fire: My Stats</h2>
