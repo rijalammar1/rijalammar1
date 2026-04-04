@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=rijalammar1&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
@@ -35,20 +35,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rijalammar1&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rijalammar1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
