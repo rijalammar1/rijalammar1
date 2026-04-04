@@ -1,29 +1,91 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
+<div align="center">
 
-<a href="https://www.github.com/rijalammar1" target="_blank" rel="noreferrer">
+```
+██████╗ ██╗     ██╗ █████╗ ██╗
+██╔══██╗██║     ██║██╔══██╗██║
+██████╔╝██║     ██║███████║██║
+██╔══██╗██║██   ██║██╔══██║██║
+██║  ██║██║╚█████╔╝██║  ██║███████╗
+╚═╝  ╚═╝╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝
+```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<h2>:fire: My Stats</h2>
+<img src="https://komarev.com/ghpvc/?username=rijalammar1&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
-<p align="left">
-  <a href="https://github.com/dimasmds">
-    <img height="192em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
-    <img height="192em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rijalammar1&layout=compact&langs_count=8&theme=dark&background=000000"/>
-   </a>
-</p>
+</div>
 
+---
 
-## 👨‍💻 Programming language that I'm learning
+## 🧑‍💻 About Me
+
+```yaml
+name: Rijal Ammar
+location: Indonesia 🇮🇩
+focus: Full Stack & Mobile Development
+currently_learning: [React, Flutter, Node.js, Laravel]
+interests: [Clean Code, UI/UX, Open Source]
+available_for: Collaboration & Freelance Projects
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,nodejs,php,react,html,androidstudio,flutter,py" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flutter&theme=dark" />
 </p>
 
-
-## 💻 Software and tools
+### Tools & Platforms
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,laravel,stackoverflow,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github&theme=dark" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rijalammar1&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rijalammar1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijalammar1&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rijalammar1-181717?style=for-the-badge&logo=github)](https://github.com/rijalammar1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+</div>
