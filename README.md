@@ -17,19 +17,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Rijal Ammar
-location: Indonesia 🇮🇩
-focus: Full Stack & Mobile Development
-currently_learning: [React, Flutter, Node.js, Laravel]
-interests: [Clean Code, UI/UX, Open Source]
-available_for: Collaboration & Freelance Projects
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
