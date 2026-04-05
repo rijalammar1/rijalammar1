@@ -47,8 +47,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rijalammar1-181717?style=for-the-badge&logo=github)](https://github.com/rijalammar1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rijal-ammar/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rijalammar.i/)
 
 </div>
 
