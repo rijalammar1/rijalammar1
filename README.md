@@ -1,11 +1,8 @@
 <div align="center">
 
-
 <img align="center" width="100%" src="gh-space-shooter.webp" />
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
 
 </div>
 
@@ -15,13 +12,12 @@
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,ts,js,dart&theme=dark" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github&theme=dark" />
 </p>
 
 ---
