@@ -17,15 +17,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rijalammar1&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
 
----
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rijalammar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
 
-## 📈 Activity Graph
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijalammar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijalammar1&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" />
 </div>
 
 ---
