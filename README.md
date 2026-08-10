@@ -14,10 +14,6 @@
 
 ---
 
-
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
